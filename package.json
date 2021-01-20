@@ -1,6 +1,6 @@
 {
   "name": "enmap-json-sync",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Allows you to use JS Maps but have the data automatically sync to a JSON file, persiting the data. Excellent for small projects. ",
   "main": "index.js",
   "scripts": {
