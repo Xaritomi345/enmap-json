@@ -1,6 +1,6 @@
 # Enmap-JSON-Sync
 
-This package allows you to use most of the normal JS Map function but in the background automatically persists your data to a JSON file. I created this project because I just wanted a simple way to create key pair values and have them automatically save to a file.
+This package allows you to use most of the normal JS Map function but in the background automatically persists your data to a JSON file. I created this project because I just wanted a simple way to create key pair values and have them automatically save to a file without needing to download and setup a bunch of third party applications such an SQL db. This is perfect for small projects or projects that don't need to persist a lot of data.
 
 > npm i enmap-json-sync
 
